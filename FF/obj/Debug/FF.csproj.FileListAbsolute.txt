@@ -1,0 +1,6 @@
+C:\Users\VK3001(H)\Desktop\FF\FF\bin\Debug\FF.exe.config
+C:\Users\VK3001(H)\Desktop\FF\FF\bin\Debug\FF.exe
+C:\Users\VK3001(H)\Desktop\FF\FF\bin\Debug\FF.pdb
+C:\Users\VK3001(H)\Desktop\FF\FF\obj\Debug\FF.csprojResolveAssemblyReference.cache
+C:\Users\VK3001(H)\Desktop\FF\FF\obj\Debug\FF.exe
+C:\Users\VK3001(H)\Desktop\FF\FF\obj\Debug\FF.pdb
