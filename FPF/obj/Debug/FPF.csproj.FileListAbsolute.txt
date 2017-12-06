@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FPF\FPF\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FPF\FPF\bin\Debug\FPF.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FPF\FPF\bin\Debug\FPF.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FPF\FPF\obj\Debug\FPF.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FPF\FPF\obj\Debug\FPF.pdb
+C:\Documents and Settings\Administrator\桌面\FPF\FPF\obj\Debug\FPF.exe
+C:\Documents and Settings\Administrator\桌面\FPF\FPF\obj\Debug\FPF.pdb
+C:\Documents and Settings\Administrator\桌面\FPF\FPF\bin\Debug\FPF.exe
+C:\Documents and Settings\Administrator\桌面\FPF\FPF\bin\Debug\FPF.pdb
+C:\Documents and Settings\Administrator\桌面\FPF\FPF\obj\Debug\ResolveAssemblyReference.cache
