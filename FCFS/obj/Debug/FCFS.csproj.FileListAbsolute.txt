@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FCFS\FCFS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FCFS\FCFS\bin\Debug\FCFS.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FCFS\FCFS\bin\Debug\FCFS.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FCFS\FCFS\obj\Debug\FCFS.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FCFS\FCFS\obj\Debug\FCFS.pdb
+C:\Documents and Settings\Administrator\桌面\FCFS\FCFS\obj\Debug\FCFS.exe
+C:\Documents and Settings\Administrator\桌面\FCFS\FCFS\obj\Debug\FCFS.pdb
+C:\Documents and Settings\Administrator\桌面\FCFS\FCFS\bin\Debug\FCFS.exe
+C:\Documents and Settings\Administrator\桌面\FCFS\FCFS\bin\Debug\FCFS.pdb
+C:\Documents and Settings\Administrator\桌面\FCFS\FCFS\obj\Debug\ResolveAssemblyReference.cache
