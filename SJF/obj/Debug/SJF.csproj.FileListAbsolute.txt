@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SJF\SJF\bin\Debug\SJF.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SJF\SJF\bin\Debug\SJF.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SJF\SJF\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SJF\SJF\obj\Debug\SJF.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SJF\SJF\obj\Debug\SJF.pdb
+C:\Documents and Settings\Administrator\桌面\SJF\SJF\obj\Debug\SJF.exe
+C:\Documents and Settings\Administrator\桌面\SJF\SJF\obj\Debug\SJF.pdb
