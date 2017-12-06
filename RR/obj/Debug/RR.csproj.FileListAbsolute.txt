@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RR\RR\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RR\RR\bin\Debug\RR.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RR\RR\bin\Debug\RR.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RR\RR\obj\Debug\RR.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RR\RR\obj\Debug\RR.pdb
+C:\Documents and Settings\Administrator\桌面\RR\RR\obj\Debug\RR.exe
+C:\Documents and Settings\Administrator\桌面\RR\RR\obj\Debug\RR.pdb
+C:\Documents and Settings\Administrator\桌面\RR\RR\bin\Debug\RR.exe
+C:\Documents and Settings\Administrator\桌面\RR\RR\bin\Debug\RR.pdb
+C:\Documents and Settings\Administrator\桌面\RR\RR\obj\Debug\ResolveAssemblyReference.cache
