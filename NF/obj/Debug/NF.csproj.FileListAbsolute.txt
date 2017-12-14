@@ -1,0 +1,6 @@
+C:\Users\VK3001(H)\Desktop\NF\NF\bin\Debug\NF.exe.config
+C:\Users\VK3001(H)\Desktop\NF\NF\bin\Debug\NF.exe
+C:\Users\VK3001(H)\Desktop\NF\NF\bin\Debug\NF.pdb
+C:\Users\VK3001(H)\Desktop\NF\NF\obj\Debug\NF.csprojResolveAssemblyReference.cache
+C:\Users\VK3001(H)\Desktop\NF\NF\obj\Debug\NF.exe
+C:\Users\VK3001(H)\Desktop\NF\NF\obj\Debug\NF.pdb
